@@ -1,0 +1,9 @@
+1,1301
+2,net02.utdallas.edu,2222
+3,net03.utdallas.edu,3333
+4,net04.utdallas.edu,4444
+5,net05.utdallas.edu,5555
+6,net06.utdallas.edu,6666
+7,net07.utdallas.edu,7777
+8,net08.utdallas.edu,8888
+9,net09.utdallas.edu,9999

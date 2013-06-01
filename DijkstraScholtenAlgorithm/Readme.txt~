@@ -1,0 +1,8 @@
+command to compile source files and place it in bin folder.
+javac -d bin src/ds/*.java
+command to run the compiled files by providing the main class
+java -cp ./bin ds.DijkstraScholtenAlgorithm
+
+or else run the jar directly
+java -jar 
+
